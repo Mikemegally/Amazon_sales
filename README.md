@@ -3,7 +3,7 @@
 ## 📸 Dashboard Preview
 Here’s a preview of the interactive **Power BI Amazon Sales Dashboard** included in this project:
 
-![Amazon Sales Dashboard](salesReport.PNG)
+![Amazon Sales Dashboard](salesreport.PNG)
 
 ---
 
