@@ -34,13 +34,12 @@ The dashboard delivers valuable insights into product performance, category tren
 
 ### 🔎 Additional Highlights
 - Dynamic slicers for **Category**, **Rating**, and **Product** allow custom exploration.  
-- Interactive visuals showcase both **quantitative** (sales, ratings) and **qualitative** (review sentiment) insights.
+- Interactive visuals showcase both **quantitative** (sales, ratings) and **qualitative** insights.
 
 ---
 
 ## ⚙️ Tools & Technologies Used
-- **Power BI Desktop** – Data modeling (DAX), interactive visualization, and KPI metrics  
-- **Microsoft Excel** – Data cleaning, preprocessing, and transformation  
+- **Power BI Desktop** –Data cleaning and transformation, Data modeling, DAX, interactive visualization, and KPI metrics  
 - **GitHub** – Project hosting and documentation  
 
 ---
